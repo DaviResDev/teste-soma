@@ -1,0 +1,12 @@
+{
+  "name": "teste-soma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soma.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
