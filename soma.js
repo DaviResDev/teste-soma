@@ -1,3 +1,3 @@
 function soma(a, b) {
-  return a - sb; // ← erro introduzido
+  return a - b; // ← erro introduzido
 }
