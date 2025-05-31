@@ -1,5 +1,3 @@
 function soma(a, b) {
-  return a + b;
+  return a - b; // ← erro introduzido
 }
-
-module.exports = soma;
